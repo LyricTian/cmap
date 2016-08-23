@@ -33,6 +33,15 @@ func main() {
 }
 ```
 
+## Benchmark
+
+```
+BenchmarkMapSet-8                	 1000000	      1032 ns/op
+BenchmarkParallelMapSet-8        	 1000000	      1217 ns/op
+BenchmarkShardMapSet-8           	 2000000	       854 ns/op
+BenchmarkParallelShardMapSet-8   	 5000000	       395 ns/op
+```
+
 ## MIT License
 
 ```
