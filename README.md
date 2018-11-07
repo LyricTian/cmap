@@ -1,6 +1,6 @@
 # Concurrent Map
 
-> A thread-safe concurrent map for the Go programming language.
+> A thread-safe map for the Go programming language.
 
 [![License][License-Image]][License-Url] [![ReportCard][ReportCard-Image]][ReportCard-Url] [![GoDoc][GoDoc-Image]][GoDoc-Url]
 
